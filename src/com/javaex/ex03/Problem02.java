@@ -13,7 +13,7 @@ public class Problem02 {
 	 
 	 for(int a=1;a<=num;a++) {
 		 
-		 for(int b=1;b<=a;b++) {
+		 for(int b=2;b<=a;b++) {
 			 
 			 System.out.print(a);
 		 }
